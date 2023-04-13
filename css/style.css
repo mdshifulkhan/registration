@@ -1,0 +1,13 @@
+body{background-image: url(../img/oppu40.jpg); background-size: cover;
+}
+.Form_head label{font-size:30px; text-align: center;
+	
+}
+.Form_head 
+label {
+  border-style: solid;
+  border-color: red;
+}
+input{background-color:white;
+}
+	
